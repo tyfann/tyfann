@@ -70,9 +70,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/tyfann?tab=repositories">
     <img src="https://badges.pufler.dev/repos/tyfann?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/tyfann">
+<!--   <a href="https://gist.github.com/tyfann">
     <img src="https://badges.pufler.dev/gists/tyfann?style=flat-square&color=black&logo=github">
-  </a>
+  </a> -->
   <a href="https://github.com/tyfann">
     <img src="https://badges.pufler.dev/commits/monthly/tyfann?style=flat-square&color=black&logo=github">
   </a>
