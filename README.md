@@ -122,8 +122,8 @@ If you like what I do, maybe consider buying me a ☕ coffee/tea or 🍰 cake pl
 <a href="https://tyfann.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ---
-
-🚧 **My Todoist Stats: ⬇️**
+<!-- 
+🚧 **My Todoist Stats: ⬇️** -->
 <!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=tyfann&repo=PaperWeeklyAI)](https://github.com/tyfann/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=tyfann&repo=Surface-Defect-Detection)](https://github.com/tyfann/Surface-Defect-Detection)
 -->
