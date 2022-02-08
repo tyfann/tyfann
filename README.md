@@ -112,8 +112,7 @@ Here are some ideas to get you started:
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Python   24 mins         ████████████████████░░░░░   80.45 % 
-VimL     4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+
 ```
 <!--END_SECTION:waka-->
 
