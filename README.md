@@ -114,7 +114,7 @@ Here are some ideas to get you started:
 ```text
 Total: 0 secs
 
-Other   7 mins          █████████████████████████   100.00 % 
+Other   1 min           █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
