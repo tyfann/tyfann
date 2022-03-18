@@ -1,6 +1,6 @@
 ## Hi, 👋  I'm <a href="https://yufantang.top/" target="_blank">TANG YUFAN (Ivan)</a> 
 
-<img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I am currently a senoir year undergraduate student in Nanjing University of Aeronautics and Astronautics who majored in computer science and technology. I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
 
