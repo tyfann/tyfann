@@ -113,7 +113,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other    2 mins          ██████████████████▒░░░░░░   72.98 %
 ```
 
 <!--END_SECTION:waka-->
