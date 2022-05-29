@@ -113,10 +113,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python     36 mins         ███████████████████▓░░░░░   78.64 %
-JSON       7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
-Text       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Python     36 mins         ███████████████████▓░░░░░   78.16 %
+JSON       7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
+Text       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
