@@ -113,9 +113,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JSON       7 mins          ███████████████████▒░░░░░   77.97 %
-Python     1 min           ████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
-Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Markdown   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
