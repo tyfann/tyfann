@@ -113,7 +113,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   4 mins          ████████████▓░░░░░░░░░░░░   50.92 %
+JSON         2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
+Vue.js       2 mins          ██████░░░░░░░░░░░░░░░░░░░   23.65 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
