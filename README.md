@@ -113,10 +113,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 mins          ████████████▓░░░░░░░░░░░░   50.92 %
-JSON         2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
-Vue.js       2 mins          ██████░░░░░░░░░░░░░░░░░░░   23.65 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+JavaScript   4 mins          ████████████▒░░░░░░░░░░░░   49.61 %
+JSON         2 mins          ██████░░░░░░░░░░░░░░░░░░░   24.38 %
+Vue.js       2 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->
