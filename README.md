@@ -113,10 +113,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-CSS          1 hr 8 mins     ████████████████░░░░░░░░░   63.93 %
-HTML         28 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.62 %
-JavaScript   9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+CSS          1 hr 8 mins     ███████████████▒░░░░░░░░░   60.78 %
+HTML         28 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.31 %
+JavaScript   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
+Vue.js       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
