@@ -113,7 +113,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java   3 mins          █████████████████████████   100.00 %
+Java   3 mins          ████████████████░░░░░░░░░   64.64 %
+Bash   1 min           █████▓░░░░░░░░░░░░░░░░░░░   22.94 %
+conf   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
 ```
 
 <!--END_SECTION:waka-->
