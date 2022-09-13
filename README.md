@@ -113,9 +113,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Bash   9 mins          ████████████████▓░░░░░░░░   67.13 %
-Java   3 mins          ███████░░░░░░░░░░░░░░░░░░   27.57 %
-conf   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Python           1 hr 40 mins    ████████████████████▒░░░░   81.98 %
+GitIgnore file   11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+Bash             9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+conf             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
