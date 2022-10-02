@@ -113,8 +113,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Properties   15 mins         ███████████▒░░░░░░░░░░░░░   45.11 %
-Other        11 mins         ████████▓░░░░░░░░░░░░░░░░   34.88 %
+Properties   15 mins         ████████████▒░░░░░░░░░░░░   48.84 %
+Other        11 mins         █████████▒░░░░░░░░░░░░░░░   37.77 %
 ```
 
 <!--END_SECTION:waka-->
