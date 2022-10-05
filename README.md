@@ -113,8 +113,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Properties   15 mins         ████████▒░░░░░░░░░░░░░░░░   33.38 %
-Other        11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
+Properties   15 mins         ███████████▓░░░░░░░░░░░░░   46.81 %
+Groovy       6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.70 %
+Kotlin       6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.59 %
+Gradle       2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+CSV          1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
