@@ -1,6 +1,6 @@
 ## Hi, 👋  I'm <a href="https://yufantang.top/" target="_blank">TANG YUFAN (Ivan)</a> 
 
-<img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I will pursue my master degree in Delft University of Technology from September 2022. I have graduated from Nanjing University of Aeronautics and Astronautics with Bachelor of Engineering in computer science and technology. I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I am pursuing my master degree in Delft University of Technology from September 2022. I have graduated from Nanjing University of Aeronautics and Astronautics with Bachelor of Engineering in computer science and technology. I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
 
