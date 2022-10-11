@@ -113,12 +113,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Jupyter          2 hrs 56 mins   █████████████████▓░░░░░░░   71.16 %
-Bash             19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
-JSON             14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-GitIgnore file   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-Terraform        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-Groovy           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Jupyter          3 hrs 32 mins   ███████████████████▒░░░░░   77.36 %
+Bash             19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+JSON             14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+Terraform        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+GitIgnore file   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Text             5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
