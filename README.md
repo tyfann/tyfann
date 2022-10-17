@@ -113,12 +113,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Jupyter          7 hrs 6 mins    ██████████████▒░░░░░░░░░░   57.46 %
-Python           2 hrs 18 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
-Terraform        55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-Bash             40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-Makefile         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-JSON             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Jupyter          4 hrs 10 mins   ███████████▒░░░░░░░░░░░░░   45.32 %
+Python           2 hrs 30 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.23 %
+Terraform        49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+Bash             40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+Makefile         28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+Docker           18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->
