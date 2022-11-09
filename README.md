@@ -113,9 +113,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Docker   0 secs          ███████████████████░░░░░░   75.70 %
-JSON     0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
-Other    0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+Other   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
