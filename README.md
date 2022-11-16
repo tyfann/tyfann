@@ -113,7 +113,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+HTML         25 mins         ███████░░░░░░░░░░░░░░░░░░   28.14 %
+Lean         25 mins         ███████░░░░░░░░░░░░░░░░░░   27.75 %
+JavaScript   20 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.45 %
+Bash         10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
+sh           9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
