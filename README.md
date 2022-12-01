@@ -113,12 +113,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Lean         6 hrs 16 mins   ███████████████████▒░░░░░   76.96 %
-Vue.js       1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
-Markdown     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-CSV          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Lean       5 hrs 49 mins   ████████████████████████░   95.55 %
+Markdown   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
