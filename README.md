@@ -113,9 +113,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js     12 mins         █████████████████████▓░░░   86.98 %
-Markdown   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
-HTML       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Vue.js     12 mins         ███████████████████▒░░░░░   77.94 %
+Markdown   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
+Lean       1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+HTML       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 ```
 
 <!--END_SECTION:waka-->
