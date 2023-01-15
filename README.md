@@ -113,9 +113,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   20 mins         ███████████████████░░░░░░   75.34 %
-Lean       6 mins          ██████░░░░░░░░░░░░░░░░░░░   24.09 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Lean       36 mins         █████████████▒░░░░░░░░░░░   53.36 %
+Markdown   32 mins         ███████████▓░░░░░░░░░░░░░   46.42 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
