@@ -113,9 +113,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Lean       55 mins         ██████████████░░░░░░░░░░░   55.80 %
-Markdown   43 mins         ███████████░░░░░░░░░░░░░░   44.04 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+C++        2 hrs 29 mins   ███████████████░░░░░░░░░░   60.50 %
+Lean       54 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.93 %
+Markdown   42 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.41 %
+CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
