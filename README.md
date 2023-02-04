@@ -113,12 +113,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Lean         2 hrs 31 mins   ███████████████████▒░░░░░   77.60 %
-C++          34 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.87 %
-TOML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-systemd      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+C++         48 mins         █████████████████████████   99.79 %
+gitignore   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+CMake       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
