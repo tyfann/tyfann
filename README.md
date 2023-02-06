@@ -113,9 +113,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C++         48 mins         █████████████████████████   99.79 %
-gitignore   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-CMake       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+C++         33 mins         █████████████████████████   99.77 %
+gitignore   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
