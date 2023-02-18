@@ -113,7 +113,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C++     54 mins         █████████████████████████   99.63 %
+Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
