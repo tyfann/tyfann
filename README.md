@@ -113,9 +113,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C++     54 mins         █████████████████████████   99.63 %
-Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+C++        54 mins         █████████████████████████   99.36 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
