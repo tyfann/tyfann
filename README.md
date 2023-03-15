@@ -113,12 +113,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java             6 hrs 18 mins   ███████████████████░░░░░░   75.89 %
-Python           1 hr            ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
-XML              34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-GitIgnore file   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-Gradle           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Groovy           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Java             5 hrs 5 mins    █████████████████████▓░░░   86.53 %
+XML              32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
+GitIgnore file   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Groovy           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Markdown         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
