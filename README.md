@@ -113,10 +113,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C++      14 mins         █████████████░░░░░░░░░░░░   52.54 %
-Python   12 mins         ███████████▒░░░░░░░░░░░░░   45.03 %
-JSON     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+C++      14 mins         ██████████████████▓░░░░░░   75.09 %
+Python   4 mins          ██████░░░░░░░░░░░░░░░░░░░   24.35 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
