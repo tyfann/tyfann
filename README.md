@@ -113,9 +113,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C++      14 mins         ██████████████████▓░░░░░░   75.09 %
-Python   4 mins          ██████░░░░░░░░░░░░░░░░░░░   24.35 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Python   4 mins          ████████████████████████▒   97.76 %
+Other    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
