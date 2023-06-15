@@ -113,11 +113,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         16 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.25 %
-Bash             16 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.73 %
-GitIgnore file   13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
-YAML             8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-Text             7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
